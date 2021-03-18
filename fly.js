@@ -1,4 +1,4 @@
-class Fly
+class fly
 {
     constructor(bodyA,pointB)
     {
